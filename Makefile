@@ -6,7 +6,7 @@
 
 PORTNAME=	hiera
 PORTVERSION=	0.3.0
-CATEGORIES=	sysutils rubygems
+CATEGORIES=	databases rubygems
 MASTER_SITES=	RG
 
 MAINTAINER=	ruby@FreeBSD.org
